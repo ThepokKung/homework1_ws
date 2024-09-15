@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kraiwich/homework1_ws/install/package_teleop_interfaces/include/**",
+        "/home/kraiwich/ros2_ws/install/turtlesim_plus_interfaces/include/**",
+        "/home/kraiwich/ros2_ws/install/lab1_interfaces/include/**",
+        "/home/kraiwich/ros2_ws/install/examples_rclcpp_cbg_executor/include/**",
+        "/home/kraiwich/ros2_ws/install/controller_interfaces/include/**",
+        "/home/kraiwich/fun3.5_ws/install/motorsim_interfaces/include/**",
+        "/home/kraiwich/fun3.5_ws/install/fun35_controller_interfaces/include/**",
+        "/home/kraiwich/RoboticsDev2024/install/motorsim_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kraiwich/homework1_ws/src/turtle_bringup_plus/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

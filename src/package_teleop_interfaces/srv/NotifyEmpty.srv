@@ -1,0 +1,5 @@
+int8 id
+int8 command
+---
+bool success
+string message
