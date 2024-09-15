@@ -12,8 +12,7 @@
 ![image](https://cdn.discordapp.com/attachments/1284584015382183968/1284684417981223016/Screencastfrom09-15-2024081320AM-ezgif.com-video-to-gif-converter.gif?ex=66e78719&is=66e63599&hm=7c37e3fef18470cc18f62482fa55cd4f94d912890e4776c29cbf2cd6ab7628b6&)
 
 ## Teleop.py
-![imgae](https://cdn.discordapp.com/attachments/1284584015382183968/1284685291830902896/Screenshot_from_2024-09-15_08-20-26.png?ex=66e787e9&is=66e63669&hm=f79ba08cfb6f211328f0b48a31378afdd679d5c5a9a82e6fc9df79140d57b9e4&
-)
+![imgae](https://cdn.discordapp.com/attachments/1284584015382183968/1284685291830902896/Screenshot_from_2024-09-15_08-20-26.png?ex=66e787e9&is=66e63669&hm=f79ba08cfb6f211328f0b48a31378afdd679d5c5a9a82e6fc9df79140d57b9e4&)
 
 Node Teleop_key.py 
 มีหน้าที่ในการส่งค่า /custom_key/cmd_vel ไปยัง teleop_scheduler โดยการใช้ keyboard ของเราในการสั่งงาน
